@@ -5,10 +5,10 @@ This project demonstrates how to create a **local file using Terraform**.
 ## 📁 Project Structure
 
 terraform-local-file/
-terraform-local-file/
-├── main.tf
-├── local-file.txt
-├── README.md
+terraform-local-file/ 
+├── main.tf 
+├── local-file.txt 
+├── README.md 
 
 ## 🚀 What This Terraform Script Does
 
